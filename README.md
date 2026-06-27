@@ -3,7 +3,7 @@
 A lightweight, responsive, and interactive To-Do List application built using native frontend web technologies. This project features dynamic DOM manipulation, persistent state storage, custom priority grouping, live status analytics, and a theme configuration engine.
 
 ## 🚀 Live Demo
-*Coming soon! (Add your GitHub Pages link here once hosted)*
+https://hansika38.github.io/to-do-list-/
 
 ---
 
